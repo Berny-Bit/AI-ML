@@ -56,13 +56,13 @@
 | | | | |
 | **Deep neural nets** | **Vereiste soort** | **Soort** | **Link naar bewijs** | **Sprint (optioneel)** | *coach opmerking* | | | |
 | Dense neural network | A | | | 2 |
-| Convolutional neural network | A | | CNN | 2 |
+| Convolutional neural network | A | |  | 2 |
 | Recurrent neural network | T | |  | 2 |
 | Residual neural network | K | | | 2 |
-| Autoencoders | T | | Autoencoders_cifar | 2 |
-| Transformers | T | | NLP | 3 |
-| Adversarial learning | T | | GAN | 3 |
-| Reinforcement learning | T | | q-learning | 2 |
+| Autoencoders | T | | | 2 |
+| Transformers | T | |  | 3 |
+| Adversarial learning | T | | | 3 |
+| Reinforcement learning | T | | | 2 |
 | | | | | |
 | **Model verbeteren** | **Vereiste soort** | **Soort** | **Link naar bewijs** | **Sprint (optioneel)** | *coach opmerking* | | | |
 | Cross validation | T | | | 1 |
@@ -79,7 +79,7 @@
 | Testen op bias en betrouwbaarheid | T | | | 3 |
 | | | | | |
 | **Toepassingen** | **Vereiste soort** | **Soort** | **Link naar bewijs** | **Sprint (optioneel)** | *coach opmerking* | | | |
-| Neural network from scratch | C | | Neural Network from scratch | 1 |
+| Neural network from scratch | C | |  | 1 |
 | Optimaliseren (gebruik GPU, Cloud, real-time) | T | | | 3 |
 | Kwaliteit AAI software | T | | | 3 |
 | Werken volgens planning | C | | | 3 | weekplanning.md |
